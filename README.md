@@ -9,7 +9,7 @@ This document shows examples to use Google API support Thai fonts. All these fon
     <style>
       body {
 		font-family: 'Athiti', sans-serif;
-        font-size: 48px;
+                font-size: 48px;
       }
     </style>
   </head>
