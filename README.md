@@ -1,6 +1,8 @@
 # About
 This document shows examples to use Google API support Thai fonts. All these fonts are free and open source. You can use them in any non-commercial or commercial project. ([read more](https://developers.google.com/fonts/))
 
+![code examples](images/code_examples.png)
+
 ## 1. Athiti Font
 ```html
 <html>
