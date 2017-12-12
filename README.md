@@ -41,7 +41,8 @@ __display__
   </body>
 </html>
 ```
-> 
+__display__
+
 ![Chonburi fonts](images/Chonburi.png)
 
 
@@ -63,7 +64,8 @@ __display__
   </body>
 </html>
 ```
-> 
+__display__
+
 ![Itim fonts](images/Itim.png)
 
 
@@ -85,7 +87,8 @@ __display__
   </body>
 </html>
 ```
-> 
+__display__
+
 ![Kanit fonts](images/Kanit.PNG)
 
 
@@ -107,7 +110,8 @@ __display__
   </body>
 </html>
 ```
-> 
+__display__
+
 ![Maitree fonts](images/Maitree.PNG)
 
 ## 6. Mitr Font
@@ -128,7 +132,8 @@ __display__
   </body>
 </html>
 ```
-> 
+__display__
+
 ![Mitr fonts](images/Mitr.PNG)
 
 ## 7. Pattaya Font
@@ -149,7 +154,8 @@ __display__
   </body>
 </html>
 ```
-> 
+__display__
+
 ![Pattaya fonts](images/Pattaya.PNG)
 
 ## 8. Pridi Font
@@ -170,7 +176,8 @@ __display__
   </body>
 </html>
 ```
-> 
+__display__
+
 ![Pridi fonts](images/Pridi.png)
 
 ## 9. Prompt Font
@@ -191,7 +198,8 @@ __display__
   </body>
 </html>
 ```
-> 
+__display__
+
 ![Prompt fonts](images/Prompt.PNG)
 
 ## 10. Sriracha Font
@@ -213,7 +221,8 @@ __display__
   </body>
 </html>
 ```
-> 
+__display__
+
 ![Sriracha fonts](images/Sriracha.PNG)
 
 ## 11. Taviraj Font
@@ -234,7 +243,8 @@ __display__
   </body>
 </html>
 ```
-> 
+__display__
+
 ![Taviraj fonts](images/Taviraj.PNG)
 
 ## 12. Trirong Font
@@ -255,7 +265,8 @@ __display__
   </body>
 </html>
 ```
-> 
+__display__
+
 ![Trirong fonts](images/Trirong.PNG)
 
 ## All Fonts
@@ -332,6 +343,7 @@ Including 12 fonts: Athiti, Chonburi, Itim, Kanit, Maitree, Mitr, Pattaya, Pridi
 </html>
 ```
 __display__
+
 ![All fonts](images/all_fonts.png)
 
 # Designer 
@@ -342,6 +354,3 @@ https://developers.google.com/fonts/docs/getting_started
 
 # Cite 
 https://fonts.google.com/?subset=thai
-
-
-
