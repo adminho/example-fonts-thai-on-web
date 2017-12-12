@@ -1,11 +1,10 @@
 # About
 This document shows examples to use Google API support Thai fonts. All these fonts are free and open source. You can use them in any non-commercial or commercial project. ([read more](https://developers.google.com/fonts/))
 
-## Athiti Font
+## 1. Athiti Font
 ```html
 <html>
-  <head>
-  	<!-- more detail https://fonts.google.com/?subset=thai -->
+  <head>  	
     <link href="https://fonts.googleapis.com/css?family=Athiti" rel="stylesheet">
     <style>
       body {
@@ -20,9 +19,10 @@ This document shows examples to use Google API support Thai fonts. All these fon
   </body>
 </html>
 ```
+__display__
 ![Athiti Font](images/Athiti.PNG)
 
-## Chonburi Font
+## 2. Chonburi Font
 ```html
 <html>
   <head>
@@ -40,10 +40,11 @@ This document shows examples to use Google API support Thai fonts. All these fon
   </body>
 </html>
 ```
+__display__
 ![Chonburi fonts](images/Chonburi.png)
 
 
-## Itim Font
+## 3. Itim Font
 ```html
 <html>
   <head>
@@ -61,10 +62,11 @@ This document shows examples to use Google API support Thai fonts. All these fon
   </body>
 </html>
 ```
+__display__
 ![Itim fonts](images/Itim.png)
 
 
-## Kanit Font
+## 4. Kanit Font
 ```html
 <html>
   <head>	
@@ -82,10 +84,11 @@ This document shows examples to use Google API support Thai fonts. All these fon
   </body>
 </html>
 ```
+__display__
 ![Kanit fonts](images/Kanit.PNG)
 
 
-## Maitree Font
+## 5. Maitree Font
 ```html
 <html>
   <head>  	
@@ -103,9 +106,10 @@ This document shows examples to use Google API support Thai fonts. All these fon
   </body>
 </html>
 ```
+__display__
 ![Maitree fonts](images/Maitree.PNG)
 
-## Mitr Font
+## 6. Mitr Font
 ```html
 <html>
   <head>	
@@ -123,9 +127,10 @@ This document shows examples to use Google API support Thai fonts. All these fon
   </body>
 </html>
 ```
+__display__
 ![Mitr fonts](images/Mitr.PNG)
 
-## Pattaya Font
+## 7. Pattaya Font
 ```html
 <html>
   <head>	
@@ -143,9 +148,10 @@ This document shows examples to use Google API support Thai fonts. All these fon
   </body>
 </html>
 ```
+__display__
 ![Pattaya fonts](images/Pattaya.PNG)
 
-## Pridi Font
+## 8. Pridi Font
 ```html
 <html>
   <head>	
@@ -163,9 +169,10 @@ This document shows examples to use Google API support Thai fonts. All these fon
   </body>
 </html>
 ```
+__display__
 ![Pridi fonts](images/Pridi.png)
 
-## Prompt Font
+## 9. Prompt Font
 ```html
 <html>
   <head>	
@@ -183,9 +190,10 @@ This document shows examples to use Google API support Thai fonts. All these fon
   </body>
 </html>
 ```
+__display__
 ![Prompt fonts](images/Prompt.PNG)
 
-## Sriracha Font
+## 10. Sriracha Font
 ```html
 <html>
   <head>
@@ -204,9 +212,10 @@ This document shows examples to use Google API support Thai fonts. All these fon
   </body>
 </html>
 ```
+__display__
 ![Sriracha fonts](images/Sriracha.PNG)
 
-## Taviraj Font
+## 11. Taviraj Font
 ```html
 <html>
   <head>	
@@ -224,9 +233,10 @@ This document shows examples to use Google API support Thai fonts. All these fon
   </body>
 </html>
 ```
+__display__
 ![Taviraj fonts](images/Taviraj.PNG)
 
-## Trirong Font
+## 12. Trirong Font
 ```html
 <html>
   <head>    
@@ -244,10 +254,11 @@ This document shows examples to use Google API support Thai fonts. All these fon
   </body>
 </html>
 ```
+__display__
 ![Trirong fonts](images/Trirong.PNG)
 
 ## All Fonts
-Including: Athiti, Chonburi, Itim, Kanit, Maitree, Mitr, Pattaya, Pridi, Prompt, Sriracha, Taviraj and Trirong
+Including 12 fonts: Athiti, Chonburi, Itim, Kanit, Maitree, Mitr, Pattaya, Pridi, Prompt, Sriracha, Taviraj and Trirong font
 ```html
 <html>
   <head>  	
@@ -319,6 +330,7 @@ Including: Athiti, Chonburi, Itim, Kanit, Maitree, Mitr, Pattaya, Pridi, Prompt,
   </body>
 </html>
 ```
+__display__
 ![All fonts](images/all_fonts.png)
 
 # Designer 
