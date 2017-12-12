@@ -31,7 +31,7 @@ __display__
     <style>
       body {
 		font-family: 'Chonburi', cursive;
-        font-size: 48px;
+                font-size: 48px;
       }
     </style>
   </head>
@@ -54,7 +54,7 @@ __display__
     <style>
       body {
 		font-family: 'Itim', cursive;
-        font-size: 48px;
+                font-size: 48px;
       }
     </style>
   </head>
@@ -77,7 +77,7 @@ __display__
     <style>
       body {
 		font-family: 'Kanit', sans-serif;
-        font-size: 48px;
+                font-size: 48px;
       }
     </style>
   </head>
@@ -100,7 +100,7 @@ __display__
     <style>
       body {
 		font-family: 'Maitree', serif;
-        font-size: 48px;
+                font-size: 48px;
       }
     </style>
   </head>
@@ -122,7 +122,7 @@ __display__
     <style>
       body {
 		font-family: 'Mitr', sans-serif;
-        font-size: 48px;
+                font-size: 48px;
       }
     </style>
   </head>
@@ -144,7 +144,7 @@ __display__
     <style>
       body {
 		font-family: 'Pattaya', sans-serif;
-        font-size: 48px;
+                font-size: 48px;
       }
     </style>
   </head>
@@ -166,7 +166,7 @@ __display__
     <style>
       body {
 		font-family: 'Pridi', serif;
-        font-size: 48px;
+                font-size: 48px;
       }
     </style>
   </head>
@@ -188,7 +188,7 @@ __display__
     <style>
       body {
 		font-family: 'Prompt', sans-serif;
-        font-size: 48px;
+                font-size: 48px;
       }
     </style>
   </head>
@@ -205,13 +205,12 @@ __display__
 ## 10. Sriracha Font
 ```html
 <html>
-  <head>
-	<!-- more detail https://fonts.google.com/?subset=thai -->
+  <head>	
     <link href="https://fonts.googleapis.com/css?family=Sriracha" rel="stylesheet">
     <style>
       body {
 		font-family: 'Sriracha', cursive;
-        font-size: 48px;
+                font-size: 48px;
       }
     </style>
   </head>
@@ -233,7 +232,7 @@ __display__
     <style>
       body {
 		font-family: 'Taviraj', serif;
-        font-size: 48px;
+                font-size: 48px;
       }
     </style>
   </head>
@@ -255,7 +254,7 @@ __display__
     <style>
       body {
 		font-family: 'Trirong', serif;
-        font-size: 48px;
+                font-size: 48px;
       }
     </style>
   </head>
@@ -270,7 +269,7 @@ __display__
 ![Trirong fonts](images/Trirong.PNG)
 
 ## All Fonts
-Including 12 fonts: Athiti, Chonburi, Itim, Kanit, Maitree, Mitr, Pattaya, Pridi, Prompt, Sriracha, Taviraj and Trirong font
+Including 12 fonts in one page: Athiti, Chonburi, Itim, Kanit, Maitree, Mitr, Pattaya, Pridi, Prompt, Sriracha, Taviraj and Trirong font
 ```html
 <html>
   <head>  	
