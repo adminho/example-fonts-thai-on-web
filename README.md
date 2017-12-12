@@ -19,7 +19,7 @@ This document shows examples to use Google API support Thai fonts. All these fon
   </body>
 </html>
 ```
-_display_
+> display
 ![Athiti Font](images/Athiti.PNG)
 
 ## 2. Chonburi Font
