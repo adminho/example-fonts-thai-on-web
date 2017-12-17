@@ -352,7 +352,7 @@ Since these examples is easy, you can customize these fonts following
 
 1) Go to https://fonts.google.com/?subset=thai and then click "+" button.
 
-![customize fonts](images/customize_fonts_1.PNG)
+![customize fonts](images/customize_fonts_1.png)
 
 2) Select "CUTOMIZE" tab.
 
