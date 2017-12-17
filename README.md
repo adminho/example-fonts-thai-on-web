@@ -350,19 +350,19 @@ __display__
 # Customize these fonts
 Since these examples is easy, you can customize these fonts following
 
-1) Go to https://fonts.google.com/?subset=thai and then click "+" button.
+__1) Go to https://fonts.google.com/?subset=thai and then click "+" button.__
 
 ![customize fonts](images/customize_fonts_1.png)
 
-2) Select "CUTOMIZE" tab.
+__2) Select "CUTOMIZE" tab.__
 
 ![customize fonts](images/customize_fonts_2.PNG)
 
-3) You can check list to custom the font that do you want.
+__3) You can check list to custom the font that do you want.__
 
 ![customize fonts](images/customize_fonts_3.PNG)
 
-4) Finally, you can get CSS code.
+__4) Finally, you switch to "EMBED" tab and get CSS code.__
 
 ![customize fonts](images/customize_fonts_4.PNG)
 
