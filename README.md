@@ -348,7 +348,7 @@ __display__
 ![All fonts](images/all_fonts.png)
 
 # Customize these fonts
-Since these examples is easy, you can customize these fonts following
+You can customize these fonts following
 
 __1) Go to https://fonts.google.com/?subset=thai and then click "+" button (an example is Kanit font).__
 
