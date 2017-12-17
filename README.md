@@ -351,15 +351,18 @@ __display__
 Since these examples is easy, you can customize these fonts following
 
 1) Go to https://fonts.google.com/?subset=thai and then click "+" button.
+
 ![customize fonts](images/customize_fonts_1.PNG)
 
-2) Select "CUTOMIZE" tab
+2) Select "CUTOMIZE" tab.
+
 ![customize fonts](images/customize_fonts_2.PNG)
 
 3) You can check list to custom the font that do you want.
+
 ![customize fonts](images/customize_fonts_3.PNG)
 
-4) Finally, you can get CSS code
+4) Finally, you can get CSS code.
 ![customize fonts](images/customize_fonts_4.PNG)
 
 More details in Google API, you can visit https://developers.google.com/fonts/docs/getting_started
