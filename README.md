@@ -363,6 +363,7 @@ Since these examples is easy, you can customize these fonts following
 ![customize fonts](images/customize_fonts_3.PNG)
 
 4) Finally, you can get CSS code.
+
 ![customize fonts](images/customize_fonts_4.PNG)
 
 More details in Google API, you can visit https://developers.google.com/fonts/docs/getting_started
