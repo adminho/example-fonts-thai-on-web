@@ -350,7 +350,7 @@ __display__
 # Customize these fonts
 Since these examples is easy, you can customize these fonts following
 
-__1) Go to https://fonts.google.com/?subset=thai and then click "+" button.__
+__1) Go to https://fonts.google.com/?subset=thai and then click "+" button (an example is Kanit font).__
 
 ![customize fonts](images/customize_fonts_1.png)
 
